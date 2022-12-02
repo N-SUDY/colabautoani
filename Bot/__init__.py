@@ -15,7 +15,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0)
 
 API_ID = int(environ.get('API_ID', 17894641)) #API ID
 API_HASH = environ.get('API_HASH', '4e5b39e5c7c6066e5144dfc50cf466cf') #API HASH
-BOT_TOKEN = environ.get('BOT_TOKEN', '5719320457:AAFgLTXbT_vop74IxnfPXRYZK_xaQBlmpyE') #BOT TOKEN
+BOT_TOKEN = environ.get('BOT_TOKEN', '5717806604:AAFE6aBBpUt3hyTHk_72yqKh7aiWm_eNpJE') #BOT TOKEN
 DATABASE_URL = environ.get('DATABASE_URL', 'mongodb+srv://AutoAnime:AutoAnime@autoanime.f8ahzhs.mongodb.net/?retryWrites=true&w=majority') #MONGO DB
 OWNER_ID = int(environ.get('OWNER_ID', 5468192421)) #OWNER ID
 MAIN_CHANNEL = int(environ.get('MAIN_CHANNEL', -1001655574268))#YOUR MAIN CHANNEL ID
